@@ -37,4 +37,4 @@ The following image shows the web application's appearance and functionality:
 
 GitHub repository: https://github.com/RishabhKamath/PasswordGenerator
 
-GitHub pages: 
+GitHub pages: https://rishabhkamath.github.io/PasswordGenerator/
